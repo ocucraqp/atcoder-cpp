@@ -27,7 +27,7 @@ using VecP = vector<P>;
 int main() {
     // input
 
-    //process
+    // process
 
     return 0;
 }
